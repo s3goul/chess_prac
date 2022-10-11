@@ -5,7 +5,7 @@
 
 ### TODO
 * ~~checkmate detection~~
-* ~~possibility to undo~~
+* possibility to undo
 * read position from file
 * view mode
 * better control interface
