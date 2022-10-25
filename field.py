@@ -40,7 +40,7 @@ class field():
         self._field = field
 
     def _render_board(self, show_possible=0):
-        os.system("clear")
+        #os.system("clear")
         possible_move_bg = "\u001b[43m"
 
         print(self._black_bg)
